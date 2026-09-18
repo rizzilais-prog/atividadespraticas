@@ -1,2 +1,2 @@
-# atividadespraticas
+# AtividadesPraticas
 Este repositório reúne produções acadêmicas e atividades práticas desenvolvidas ao longo da formação em Tecnologias Emergentes na Educação, abordando temas relacionados ao uso de mídias digitais, linguagem visual, tecnologias educacionais e estratégias inovadoras de ensino e aprendizagem. Os materiais destacam possibilidades de integração de recursos digitais ao contexto educacional, valorizando práticas mais dinâmicas, interativas e significativas.
