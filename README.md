@@ -1,2 +1,2 @@
 # atividadespraticas
-Repositório de produções acadêmicas e atividades práticas sobre tecnologias emergentes na educação, mídias digitais, linguagem visual e estratégias inovadoras de ensino-aprendizagem.
+Este repositório reúne produções acadêmicas e atividades práticas desenvolvidas ao longo da formação em Tecnologias Emergentes na Educação, abordando temas relacionados ao uso de mídias digitais, linguagem visual, tecnologias educacionais e estratégias inovadoras de ensino e aprendizagem. Os materiais destacam possibilidades de integração de recursos digitais ao contexto educacional, valorizando práticas mais dinâmicas, interativas e significativas.
